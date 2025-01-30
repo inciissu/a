@@ -4,3 +4,4 @@ bitis = int(input("Bitiş Sayısını Giriniz: "))
 
 for i in range(baslangic,bitis):
     print(i)
+    print(i)
